@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for web-ndehia on 2025-10-15T18:25:57Z
+# fly.toml app configuration file generated for web-jos9ya on 2025-10-15T18:41:12Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'web-ndehia'
+app = 'web-jos9ya'
 primary_region = 'iad'
 
 [build]

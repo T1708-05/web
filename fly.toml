@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for web-ndehia on 2025-10-15T18:25:57Z
+# fly.toml app configuration file generated for web-electromartshop on 2025-10-15T19:03:17Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'web-ndehia'
+app = 'web-electromartshop'
 primary_region = 'iad'
 
 [build]
